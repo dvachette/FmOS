@@ -4,3 +4,4 @@ opt/cross/*
 src/bin/*
 src/isodir/*
 src/objects/*
+.vscode
