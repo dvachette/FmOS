@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-GNU_GPL_V3-orange)
+![License](https://img.shields.io/badge/license-GNU_GPL_V2-orange)
 
 
 
@@ -44,7 +44,7 @@ make clean
 
 
 ## Note
-You need to hve qemu and grub installed to run the os.
+You need to have qemu and grub installed to run the os.
 
 ## License
 This project is licensed under the GNU General Public License v3.0.
